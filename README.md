@@ -1,4 +1,4 @@
-# portfolio
+# old portfolio website
 
-# Check Out
-<a href="https://nagasai.live"> Link </a>
+# Check Out new one
+<a href="https://nagasai.fun"> Link </a>
